@@ -1,4 +1,3 @@
-
 // WRIGHT FOR BOOTSTRAP POWERD BY THEINTERNETISAHELLHOLE
 const https = require('https');
 const fs = require('fs');
