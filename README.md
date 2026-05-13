@@ -4,6 +4,7 @@
 ![Purpose](https://img.shields.io/badge/purpose-folder%20generator-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+![Run](https://img.shields.io/badge/run-node%20wright.js-important)
 
 Platform Language Purpose Run
 
