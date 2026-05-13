@@ -18,3 +18,6 @@ To run the file, make sure Node.js is installed, then use:
 node wrightForBootstrap.js
 ```
 
+Part of WRIGHT ecosystem:
+
+https://github.com/theinternetisahellhole/wright
