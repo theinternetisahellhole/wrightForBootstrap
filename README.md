@@ -2,8 +2,8 @@
 ![Platform](https://img.shields.io/badge/platform-Node.js-green)
 ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 ![Purpose](https://img.shields.io/badge/purpose-folder%20generator-blue)
-![Run](https://img.shields.io/badge/run-node%20wright.js-important)
-![Node.js](https://img.shields.io/badge/Node.js-18+-green) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-blue) ![Status](https://img.shields.io/badge/Status-Active-success)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 Platform Language Purpose Run
 
